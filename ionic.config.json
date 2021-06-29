@@ -1,0 +1,7 @@
+{
+  "name": "ppm-http",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
